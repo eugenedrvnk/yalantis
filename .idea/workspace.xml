@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4eb364db-b982-4e92-9faa-13de39168643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/employees.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/Item/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/Item/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/Item/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/Item/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Employees/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/hooks.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterAPI.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1tE0kP7h65Loi65ybEUkj1Z8lTl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb364db-b982-4e92-9faa-13de39168643" name="Default Changelist" comment="" />
+      <created>1622319083843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622319083843</updated>
+      <workItem from="1622319084969" duration="1852000" />
+      <workItem from="1622367810089" duration="133000" />
+      <workItem from="1622367945723" duration="1029000" />
+      <workItem from="1622369003781" duration="6826000" />
+      <workItem from="1622386975946" duration="1095000" />
+      <workItem from="1622388084535" duration="377000" />
+      <workItem from="1622388480312" duration="16409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl" timestamp="1622367941262">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1622367941262" />
+    <state x="441" y="154" width="1037" height="737" key="SettingsEditor" timestamp="1622368423102">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="441" y="154" width="1037" height="737" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1622368423102" />
+    <state x="639" y="244" width="641" height="550" key="find.popup" timestamp="1622404424455">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="639" y="244" width="641" height="550" key="find.popup/0.27.1920.985@0.27.1920.985" timestamp="1622404424455" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1622398359353">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.27.1920.985@0.27.1920.985" timestamp="1622398359353" />
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1622398995433">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.985@0.27.1920.985" timestamp="1622398995433" />
+  </component>
+</project>

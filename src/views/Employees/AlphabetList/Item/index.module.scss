@@ -1,0 +1,13 @@
+.title {
+  font-size: 20px;
+  margin-bottom: 0;
+
+  &Selected {
+    color: blue;
+  }
+}
+
+.radioButton {
+  display: block;
+  cursor: pointer;
+}

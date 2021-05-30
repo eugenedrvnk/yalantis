@@ -1,0 +1,13 @@
+.wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.itemWrap {
+  border: 2px solid black;
+  padding: 10px;
+  height: 300px;
+  overflow-y: auto;
+}
