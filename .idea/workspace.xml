@@ -11,40 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb364db-b982-4e92-9faa-13de39168643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/modules/employees.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/Item/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/Item/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/AlphabetList/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/Item/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/Item/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/SelectedList/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Employees/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/hooks.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/store.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/counter/counterAPI.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +62,7 @@
       <workItem from="1622369003781" duration="6826000" />
       <workItem from="1622386975946" duration="1095000" />
       <workItem from="1622388084535" duration="377000" />
-      <workItem from="1622388480312" duration="16409000" />
+      <workItem from="1622388480312" duration="16762000" />
     </task>
     <servers />
   </component>
